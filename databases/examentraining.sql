@@ -9,3 +9,9 @@ CREATE TABLE `vakken` (
 `docentnaam` text NOT NULL,
 `lokaal` tekst
 );
+
+CREATE TABLE `Leerlingen` (
+    `id_leerling` int AUTO_INCREMENT PRIMARY  KEY
+    `naam` text NOT NULL
+    `klas` varchar(16) NOT NULL
+);

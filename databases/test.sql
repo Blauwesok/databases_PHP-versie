@@ -3,7 +3,6 @@ DROP DATABASE IF EXISTS `test`;
 CREATE DATABASE `test`;
 
 USE `test`;
-
 CREATE TABLE `student`(
 `id` int AUTO_INCREMENT PRIMARY KEY
 `naam` text NOT NULL

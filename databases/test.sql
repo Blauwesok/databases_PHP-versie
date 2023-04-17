@@ -8,3 +8,6 @@ CREATE TABLE `student`(
 `klas` varchar(16) NOT NULL
 );
 
+INSERT INTO `student` (`id`, `naam`, `klas`) VALUES
+(1, 'henk', 'havo4a')
+(2, 'hammon', 'havo4b')

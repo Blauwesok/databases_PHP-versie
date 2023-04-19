@@ -25,4 +25,4 @@ INSERT INTO `make_up_producten`(`id`, `product`, `prijs`) VALUES
 (1, 'make up remover', '10'),
 (2, 'primer', '15'),
 (3, 'make up palette', '30')
-(4, 'make up bananenpoeder', '25')
+(4, 'make up bananenpoeder', '25');
